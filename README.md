@@ -76,4 +76,5 @@
 
 ## Other
 
-`Alt + Ins` - Create New ...
+`Alt + Ins` - Create New ...  
+`Ctrl + K` - Commit
