@@ -71,5 +71,9 @@
 
 ## Navigation
 
-`Ctrl + Shift + T` - Navigate -> Test
+`Ctrl + Shift + T` - Navigate -> Test  
 `Ctrl + Alt + B` - Navigate -> Implementation
+
+## Other
+
+`Alt + Ins` - Create New ...
