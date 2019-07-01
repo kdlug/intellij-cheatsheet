@@ -68,3 +68,7 @@
 `F4` - jumps to the source of class  
 `Ctrl + B` - jumps to the declaration of a class or interface  
 `Ctrl + F12` - shows the file structure
+
+## Navigation
+
+`Ctrl + Shitf + T` - Navigate -> Test
